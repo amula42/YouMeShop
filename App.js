@@ -27,7 +27,7 @@ export default function App() {
     <WebView
     ref={webViewRef}
     source={{
-      uri: 'https://demos.8bittechnologies.com/clothstore/'
+      uri: 'https://shop.acostechnology.in/'
     }}
     onNavigationStateChange = {(state) => {
       setCanGoBack(state.canGoBack);

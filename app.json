@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "YouMeShop",
-    "slug": "YouMeShop",
+    "name": "Shop Acos",
+    "slug": "shopacos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.teamalpha.YouMeShop",
+      "package": "com.teamalpha.shopacos",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
